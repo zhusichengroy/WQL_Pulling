@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<root>
+  <some-element>Some content in the element</some-element>
+  <some-other-element>
+    <child>
+      More content
+    </child>
+  </some-other-element>
+</root>
